@@ -1,5 +1,5 @@
 # TraceListenerApp
-Learning how to trace - this is example of tracing.
+Learning how to trace - this is one example of tracing.
 
 Using different TraceEventType such as
 - Error
